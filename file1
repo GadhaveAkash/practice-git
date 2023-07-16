@@ -2,7 +2,10 @@
 apt update -y
 apt install tree-y
 apt install nginx -y
+echo"this is practice"
+echo"welcome o git"
 echo"hello devops"
 this is your job
 akash is here
 love to do thid
+
