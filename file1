@@ -2,3 +2,5 @@
 apt update -y
 apt install tree-y
 apt install nginx -y
+echo"this is practice"
+echo"welcome o git"
